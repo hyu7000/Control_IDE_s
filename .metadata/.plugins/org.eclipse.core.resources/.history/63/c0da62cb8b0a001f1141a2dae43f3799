@@ -1,0 +1,20 @@
+public class CommandParser {
+
+    private ControlAction controlAction;
+
+    public CommandParser() {
+        this.projectManager = new ProjectManager();
+    }
+
+    public void parseCommand(String cmd) {
+        switch (cmd) {
+            case "build":
+                projectManager.buildActiveProject();
+                break;
+            // 여기에 더 많은 case를 추가할 수 있습니다.
+            default:
+                System.out.println("Unknown command: " + cmd);
+                break;
+        }
+    }
+}

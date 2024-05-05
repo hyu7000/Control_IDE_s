@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="osgiProject" value="false"/>
+	<item key="automaticMetadata" value="false"/>
+	<item key="frameworkType" value="Equinox"/>
+	<item key="generatePluginActivator" value="false"/>
+	<item key="uiPlugin" value="false"/>
+	<item key="apiAnalysis" value="false"/>
+	<item key="rcpPlugin" value="false"/>
+	<item key="OrganizeManifests.ExportedPackages.addMissing" value="false"/>
+	<item key="OrganizeManifests.ExportedPackages.makeInternal" value="false"/>
+	<item key="OrganizeManifests.ExportedPackages.packageFilter" value="*.internal*"/>
+	<item key="OrganizeManifests.ExportedPackages.removeUnresolved" value="false"/>
+	<item key="OrganizeManifests.calculateUses" value="false"/>
+	<item key="OrganizeManifests.RequireImport.modifyDep" value="false"/>
+	<item key="OrganizeManifests.RequireImport.resolve:markOptional" value="false"/>
+	<item key="OrganizeManifests.RequireImport.findRemoveUnused" value="false"/>
+	<item key="OrganizeManifests.AddDependencies" value="false"/>
+	<item key="OrganizeManifests.ComputeImports" value="false"/>
+	<item key="OrganizeManifests.General.cleanup" value="false"/>
+	<item key="OrganizeManifests.General.cleanup.removeUselessFiles" value="false"/>
+	<item key="OrganizeManifests.Translation.nls" value="false"/>
+	<item key="OrganizeManifests.Translation.unusedKeys" value="false"/>
+	<item key="initLaunch" value="false"/>
+	<section name="NewPluginProjectWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="617"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="PDEFormActionManager">
+		<list key="RecentLaunches">
+			<item value="org.eclipse.pde.ui.runtimeWorkbenchShortcut"/>
+		</list>
+	</section>
+	<section name="org.eclipse.pde.ui.dialogs.PluginSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="692"/>
+			<item key="DIALOG_Y_ORIGIN" value="327"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+	<section name="RefactoringWizard.Organize Manifests">
+		<item key="width" value="600"/>
+		<item key="height" value="415"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+	</section>
+	<section name="OrganizeManifestsWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="660"/>
+		<item key="DIALOG_Y_ORIGIN" value="108"/>
+		<item key="DIALOG_WIDTH" value="616"/>
+		<item key="DIALOG_HEIGHT" value="624"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="JavaAttributeWizard">
+		<section name="JavaAttributeWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="681"/>
+			<item key="DIALOG_Y_ORIGIN" value="85"/>
+			<item key="DIALOG_WIDTH" value="575"/>
+			<item key="DIALOG_HEIGHT" value="659"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+		<section name="NewClassWizardPage">
+			<item key="create_constructor" value="true"/>
+			<item key="create_unimplemented" value="true"/>
+		</section>
+	</section>
+	<section name=".dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="706"/>
+		<item key="DIALOG_Y_ORIGIN" value="60"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="696"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="NewExtensionPointWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="970"/>
+		<item key="DIALOG_Y_ORIGIN" value="192"/>
+		<item key="DIALOG_WIDTH" value="472"/>
+		<item key="DIALOG_HEIGHT" value="450"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="pde-form-editor">
+		<item key="org.eclipse.pde.ui.manifestEditor" value="plugin-context"/>
+	</section>
+	<section name="PluginExportWizard">
+		<item key="exportType" value="1"/>
+		<item key="destination0" value="C:\Users\hk910\Desktop"/>
+		<item key="destination1" value="C:\Users\hk910\Desktop"/>
+		<item key="exportUpdate" value="true"/>
+		<item key="exportSource" value="true"/>
+		<item key="exportSourceFormat" value="Generate source bundles"/>
+		<item key="saveAsAnt" value="false"/>
+		<item key="qualifier" value="true"/>
+		<item key="qualifierName" value="202405052245"/>
+		<item key="allowBinaryCycles" value="true"/>
+		<item key="useWorkspaceCompiledClasses" value="true"/>
+		<item key="signJAR" value="false"/>
+		<item key="zipFileName0" value="C:\Users\hk910\eclipse-workspace.zip"/>
+		<item key="zipFileName1" value="C:\Users\hk910\eclipse-workspace.zip"/>
+		<section name="PluginExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="643"/>
+			<item key="DIALOG_Y_ORIGIN" value="187"/>
+			<item key="DIALOG_WIDTH" value="650"/>
+			<item key="DIALOG_HEIGHT" value="637"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+	<section name="NewFeatureProjectWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="706"/>
+		<item key="DIALOG_Y_ORIGIN" value="222"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="632"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="NewSiteProjectWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="706"/>
+		<item key="DIALOG_Y_ORIGIN" value="222"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="500"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.pde.ui.dialogs.FeatureSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="668"/>
+			<item key="DIALOG_Y_ORIGIN" value="191"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+	<section name="FeatureExportWizard">
+		<item key="exportType" value="1"/>
+		<item key="destination0" value="C:\Users\hk910\Desktop\plugins"/>
+		<item key="destination1" value="C:\Users\hk910\Desktop\plugins"/>
+		<item key="exportUpdate" value="true"/>
+		<item key="exportSource" value="false"/>
+		<item key="exportSourceFormat" value="Generate source bundles"/>
+		<item key="saveAsAnt" value="false"/>
+		<item key="qualifier" value="false"/>
+		<item key="qualifierName" value="202405060000"/>
+		<item key="allowBinaryCycles" value="true"/>
+		<item key="useWorkspaceCompiledClasses" value="false"/>
+		<item key="p2metadata" value="true"/>
+		<item key="create_categories" value="true"/>
+		<item key="category_file" value=""/>
+		<item key="signJAR" value="false"/>
+		<item key="jnlp" value="false"/>
+		<item key="siteURL" value=""/>
+		<item key="jre" value=""/>
+		<section name="FeatureExportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="651"/>
+			<item key="DIALOG_Y_ORIGIN" value="70"/>
+			<item key="DIALOG_WIDTH" value="635"/>
+			<item key="DIALOG_HEIGHT" value="682"/>
+			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		</section>
+	</section>
+</section>

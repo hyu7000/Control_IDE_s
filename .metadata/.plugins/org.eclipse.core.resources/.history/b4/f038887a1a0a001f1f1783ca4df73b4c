@@ -1,0 +1,15 @@
+import org.eclipse.ui.plugin.AbstractUIPlugin;
+
+public class Control extends AbstractUIPlugin {
+	
+	public static final String PLUGIN_ID = "Control_IDE_s";
+
+	// 플러그인의 단일 인스턴스를 유지합니다.
+    private static Control plugin;
+
+	public Control() {
+		// TODO Auto-generated constructor stub
+		System.out.println("Start!");
+	}
+
+}

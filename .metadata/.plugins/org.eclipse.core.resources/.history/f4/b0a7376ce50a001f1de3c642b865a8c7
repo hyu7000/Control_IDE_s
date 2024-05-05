@@ -1,0 +1,6 @@
+package Control_IDEs;
+
+public class ActionCallback {
+	void onSuccess();
+    void onError(Exception e);
+}

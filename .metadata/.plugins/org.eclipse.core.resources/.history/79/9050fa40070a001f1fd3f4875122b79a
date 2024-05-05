@@ -1,0 +1,29 @@
+import org.eclipse.ui.plugin.AbstractUIPlugin;
+import org.osgi.framework.BundleContext;
+
+
+public class Control extends AbstractUIPlugin{
+    // The plug-in ID
+    public static final String PLUGIN_ID = "com.example.helloworld";
+
+    // The shared instance
+    private static Control plugin;
+    
+    public Control() {
+    }
+
+    public void start(BundleContext context) throws Exception {
+        super.start(context);
+        plugin = this;
+        System.out.println("Start!");
+    }
+
+    public void stop(BundleContext context) throws Exception {
+        plugin = null;
+        super.stop(context);
+    }
+
+    public static Control getDefault() {
+        return plugin;
+    }
+}

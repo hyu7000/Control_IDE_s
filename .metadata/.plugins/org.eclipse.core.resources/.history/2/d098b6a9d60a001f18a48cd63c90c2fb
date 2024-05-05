@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension-point id="Control_IDE_s" name="Configuration_Control_IDE_s" schema="schema/Control_IDE_s.exsd"/>
+   <extension
+         point="org.eclipse.ui.propertyPages">
+         <page
+            id="Control_IDE_s"
+            name="My Custom Preferences"
+            class="MyPreferencePage"
+            category="com.example.category">
+      	 </page>
+      	 <category
+	        id="Control_IDE_s"
+	        name="Example Category"
+	        parent="org.eclipse.ui.preferencePages">
+         </category>
+   </extension>
+
+</plugin>
