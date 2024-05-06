@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?metadataRepository version='1.2.0'?>
-<repository name='file:/C:/Users/hk910/eclipse-workspace/.metadata/.plugins/org.eclipse.pde.core/tempp2metadata - metadata' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1'>
+<repository name='file:/C:/Users/hk910/eclipse-workspace/.metadata/.plugins/org.eclipse.pde.core/tempp2metadata - metadata' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1714921256351'/>
+    <property name='p2.timestamp' value='1714977021722'/>
     <property name='p2.compressed' value='false'/>
   </properties>
-  <units size='2'>
-    <unit id='Control_IDE_s_feature.feature.group' version='1.0.0.202405060000' singleton='false'>
-      <update id='Control_IDE_s_feature.feature.group' range='[0.0.0,1.0.0.202405060000)' severity='0'/>
+  <units size='3'>
+    <unit id='Control_IDE_s_feature.feature.group' version='1.0.0.202405061530' singleton='false'>
+      <update id='Control_IDE_s_feature.feature.group' range='[0.0.0,1.0.0.202405061530)' severity='0'/>
       <properties size='4'>
         <property name='org.eclipse.equinox.p2.name' value='Control_IDE_s_feature'/>
         <property name='org.eclipse.equinox.p2.description' value='[Enter Feature Description here.]'/>
@@ -15,15 +15,16 @@
         <property name='org.eclipse.equinox.p2.type.group' value='true'/>
       </properties>
       <provides size='1'>
-        <provided namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s_feature.feature.group' version='1.0.0.202405060000'/>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s_feature.feature.group' version='1.0.0.202405061530'/>
       </provides>
-      <requires size='2'>
+      <requires size='3'>
         <required namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s' range='0.0.0'>
           <filter>
             (!(org.eclipse.equinox.p2.exclude.import=true))
           </filter>
         </required>
-        <required namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s_feature.feature.jar' range='[1.0.0.202405060000,1.0.0.202405060000]'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s' range='[1.0.0.202405061530,1.0.0.202405061530]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s_feature.feature.jar' range='[1.0.0.202405061530,1.0.0.202405061530]'>
           <filter>
             (org.eclipse.update.install.features=true)
           </filter>
@@ -39,7 +40,7 @@
         [Enter Copyright Description here.]
       </copyright>
     </unit>
-    <unit id='Control_IDE_s_feature.feature.jar' version='1.0.0.202405060000'>
+    <unit id='Control_IDE_s_feature.feature.jar' version='1.0.0.202405061530'>
       <properties size='4'>
         <property name='org.eclipse.equinox.p2.name' value='Control_IDE_s_feature'/>
         <property name='org.eclipse.equinox.p2.description' value='[Enter Feature Description here.]'/>
@@ -47,15 +48,15 @@
         <property name='org.eclipse.update.feature.plugin' value='Control_IDE_s'/>
       </properties>
       <provides size='3'>
-        <provided namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s_feature.feature.jar' version='1.0.0.202405060000'/>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s_feature.feature.jar' version='1.0.0.202405061530'/>
         <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='feature' version='1.0.0'/>
-        <provided namespace='org.eclipse.update.feature' name='Control_IDE_s_feature' version='1.0.0.202405060000'/>
+        <provided namespace='org.eclipse.update.feature' name='Control_IDE_s_feature' version='1.0.0.202405061530'/>
       </provides>
       <filter>
         (org.eclipse.update.install.features=true)
       </filter>
       <artifacts size='1'>
-        <artifact classifier='org.eclipse.update.feature' id='Control_IDE_s_feature' version='1.0.0.202405060000'/>
+        <artifact classifier='org.eclipse.update.feature' id='Control_IDE_s_feature' version='1.0.0.202405061530'/>
       </artifacts>
       <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
       <touchpointData size='1'>
@@ -73,6 +74,56 @@
       <copyright uri='http://www.example.com/copyright' url='http://www.example.com/copyright'>
         [Enter Copyright Description here.]
       </copyright>
+    </unit>
+    <unit id='Control_IDE_s' version='1.0.0.202405061530' generation='2'>
+      <update id='Control_IDE_s' range='[0.0.0,1.0.0.202405061530)' severity='0'/>
+      <properties size='2'>
+        <property name='df_LT.Bundle-Name' value='Control_IDE_s'/>
+        <property name='org.eclipse.equinox.p2.name' value='%Bundle-Name'/>
+      </properties>
+      <provides size='6'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s' version='1.0.0.202405061530'/>
+        <provided namespace='osgi.bundle' name='Control_IDE_s' version='1.0.0.202405061530'/>
+        <provided namespace='java.package' name='Control_IDEs' version='0.0.0'/>
+        <provided namespace='osgi.identity' name='Control_IDE_s' version='1.0.0.202405061530'>
+          <properties size='1'>
+            <property name='type' value='osgi.bundle'/>
+          </properties>
+        </provided>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+        <provided namespace='org.eclipse.equinox.p2.localization' name='df_LT' version='1.0.0'/>
+      </provides>
+      <requires size='7'>
+        <required namespace='osgi.bundle' name='org.eclipse.osgi' range='3.19.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='3.31.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.resources' range='3.20.100'/>
+        <required namespace='osgi.bundle' name='org.eclipse.ui' range='3.205.100'/>
+        <required namespace='osgi.bundle' name='org.eclipse.ui.ide' range='3.22.100'/>
+        <requiredProperties namespace='osgi.ee' match='(&amp;(osgi.ee=JavaSE)(version=17))'>
+          <description>
+            Control_IDE_s
+          </description>
+        </requiredProperties>
+        <required namespace='org.eclipse.equinox.p2.iu' name='Control_IDE_s.source' range='[1.0.0.202405061530,1.0.0.202405061530]' optional='true'>
+          <filter>
+            (org.eclipse.update.install.sources=true)
+          </filter>
+        </required>
+      </requires>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='Control_IDE_s' version='1.0.0.202405061530'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='2'>
+          <instruction key='zipped'>
+            true
+          </instruction>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: Control_IDE_s;singleton:=true&#xA;Bundle-Version: 1.0.0.202405061530
+          </instruction>
+        </instructions>
+      </touchpointData>
     </unit>
   </units>
 </repository>

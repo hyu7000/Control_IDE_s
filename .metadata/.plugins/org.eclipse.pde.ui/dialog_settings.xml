@@ -22,6 +22,7 @@
 	<item key="OrganizeManifests.Translation.nls" value="false"/>
 	<item key="OrganizeManifests.Translation.unusedKeys" value="false"/>
 	<item key="initLaunch" value="false"/>
+	<item key="org.eclipse.pde.ui.synchronizeVersions.mode" value="0"/>
 	<section name="NewPluginProjectWizard.dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="0"/>
 		<item key="DIALOG_Y_ORIGIN" value="0"/>
@@ -158,11 +159,32 @@
 		<item key="siteURL" value=""/>
 		<item key="jre" value=""/>
 		<section name="FeatureExportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="651"/>
-			<item key="DIALOG_Y_ORIGIN" value="70"/>
-			<item key="DIALOG_WIDTH" value="635"/>
+			<item key="DIALOG_X_ORIGIN" value="643"/>
+			<item key="DIALOG_Y_ORIGIN" value="187"/>
+			<item key="DIALOG_WIDTH" value="650"/>
 			<item key="DIALOG_HEIGHT" value="682"/>
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 		</section>
+	</section>
+	<section name="SynchronizeVersionsWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="706"/>
+		<item key="DIALOG_Y_ORIGIN" value="235"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="targetStateView">
+	</section>
+	<section name="pde_compiler_errorwarnings_block">
+		<item key="0" value="true"/>
+		<item key="1" value="false"/>
+		<item key="2" value="false"/>
+		<item key="3" value="false"/>
+		<item key="4" value="false"/>
+	</section>
+	<section name="org.eclipse.pde.ui.PLUGIN_STATUS_DIALOG">
+		<item key="DIALOG_WIDTH" value="691"/>
+		<item key="DIALOG_HEIGHT" value="390"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

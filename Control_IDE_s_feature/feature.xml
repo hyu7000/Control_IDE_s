@@ -21,4 +21,8 @@
       <import plugin="Control_IDE_s"/>
    </requires>
 
+   <plugin
+         id="Control_IDE_s"
+         version="0.0.0"/>
+
 </feature>
