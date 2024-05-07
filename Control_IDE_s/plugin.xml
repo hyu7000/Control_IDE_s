@@ -3,7 +3,8 @@
 <plugin>
    <extension-point id="Control_IDE_s" name="%extension-point.name" schema="schema/Control_IDE_s.exsd"/>
    <extension
-	     point="org.eclipse.ui.propertyPages">
-	</extension>
-
+         point="org.eclipse.ui.startup">
+      <startup
+            class="Control_IDEs.Control"/>
+   </extension>
 </plugin>

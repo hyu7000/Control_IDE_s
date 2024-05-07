@@ -1,9 +1,10 @@
 package Control_IDEs;
 
 import org.eclipse.ui.plugin.AbstractUIPlugin;
+import org.eclipse.ui.IStartup;
 import org.osgi.framework.BundleContext;
 
-public class Control extends AbstractUIPlugin{
+public class Control extends AbstractUIPlugin implements IStartup{
 	
 	public static final String PLUGIN_ID = "Control_IDE_s";
 
@@ -35,6 +36,12 @@ public class Control extends AbstractUIPlugin{
         super.stop(context);
         
         System.out.println("Control 플러그인 종료!");
+    }
+    
+    @Override
+    public void earlyStartup() {
+        // 플러그인이 시작될 때 실행할 코드
+        System.out.println("플러그인이 시작되었습니다.");
     }
     
 	public static Control getDefault() {
