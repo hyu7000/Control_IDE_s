@@ -3,7 +3,7 @@ package Control_IDEs;
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.osgi.framework.BundleContext;
 
-public class Control extends AbstractUIPlugin {
+public class Control extends AbstractUIPlugin{
 	
 	public static final String PLUGIN_ID = "Control_IDE_s";
 
@@ -36,7 +36,7 @@ public class Control extends AbstractUIPlugin {
         
         System.out.println("Control 플러그인 종료!");
     }
-	
+    
 	public static Control getDefault() {
         return plugin;
     }
