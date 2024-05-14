@@ -7,17 +7,35 @@ public class CommandParser {
     public CommandParser() {
         this.controlAction = new ControlAction();
     }
+    
+    public String[] getCmdArray(String cmd) {
+        // 정규 표현식을 사용하여 공백을 기준으로 문자열을 나눔
+        String[] cmdArray = cmd.split("\\s+");
+        
+        return cmdArray;
+    }
 
     public void parseCommand(String cmd, ActionCallback callback) {
-        switch (cmd) {
+    	String[] cmdArray = this.getCmdArray(cmd);
+    	
+    	/*
+    	 * CMD Frame Definition
+    	 * cmdArray[0] : CMD ID
+    	 * cmdArray[1] : CMD DATA (optional)
+    	 */
+    	String cmd_ID   = cmdArray[0];
+    	
+        switch (cmd_ID) {
             case "build":
-            	controlAction.buildActiveProject(callback); 
-            	System.out.println("Start build");
+            	String cmd_Data = cmdArray[1]; // it meaning 'Project Name'
+            	controlAction.buildProjectByName(cmd_Data, callback); 
+            	System.out.println("Start build : " + cmd_Data);
                 break;
-            // 여기에 더 많은 case를 추가할 수 있습니다.
             default:
                 System.out.println("Unknown command: " + cmd);
                 break;
         }
     }
+    
+    
 }
