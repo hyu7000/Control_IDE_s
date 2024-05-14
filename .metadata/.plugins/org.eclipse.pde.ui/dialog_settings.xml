@@ -106,9 +106,10 @@
 		<item key="signJAR" value="false"/>
 		<item key="zipFileName0" value="C:\Users\hk910\eclipse-workspace.zip"/>
 		<item key="zipFileName1" value="C:\Users\hk910\eclipse-workspace.zip"/>
+		<item key="destination2" value="C:\Users\hk910\Desktop\plugins"/>
 		<section name="PluginExportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="693"/>
-			<item key="DIALOG_Y_ORIGIN" value="187"/>
+			<item key="DIALOG_X_ORIGIN" value="1013"/>
+			<item key="DIALOG_Y_ORIGIN" value="367"/>
 			<item key="DIALOG_WIDTH" value="635"/>
 			<item key="DIALOG_HEIGHT" value="637"/>
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -159,8 +160,8 @@
 		<item key="siteURL" value=""/>
 		<item key="jre" value=""/>
 		<section name="FeatureExportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="643"/>
-			<item key="DIALOG_Y_ORIGIN" value="187"/>
+			<item key="DIALOG_X_ORIGIN" value="963"/>
+			<item key="DIALOG_Y_ORIGIN" value="367"/>
 			<item key="DIALOG_WIDTH" value="650"/>
 			<item key="DIALOG_HEIGHT" value="682"/>
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>

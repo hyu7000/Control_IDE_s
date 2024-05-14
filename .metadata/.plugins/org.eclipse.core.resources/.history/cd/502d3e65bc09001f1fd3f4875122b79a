@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: Control_IDE_s
-Bundle-SymbolicName: Control_IDE_s
-Bundle-Version: 1.0.0.qualifier
-Require-Bundle: org.eclipse.osgi;bundle-version="3.19.0",
- org.eclipse.ui;bundle-version="3.205.100"
-Automatic-Module-Name: Control.IDE.s
-Bundle-RequiredExecutionEnvironment: JavaSE-17

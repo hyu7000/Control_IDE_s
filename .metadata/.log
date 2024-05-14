@@ -3309,3 +3309,293 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-12 10:19:30.211 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-12 10:19:43.549
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-12 10:24:24.400
+!MESSAGE Logback config file: C:\Users\hk910\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-12 10:24:35.412
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hk910'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 10:27:20.593
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405121027.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 10:27:20.597
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405121027.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 10:46:44.087
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405121046.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 10:46:44.102
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405121046.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 10:48:04.176
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405121048.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 10:48:04.180
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405121048.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 10:52:29.137
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405121052.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 10:52:29.147
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405121052.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 11:20:44.917
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405121120.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 11:20:44.933
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405121120.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 11:22:53.847
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405121122.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 11:22:53.853
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405121122.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 11:25:24.210
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405121125.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 11:25:24.215
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405121125.
+!SESSION 2024-05-12 11:35:11.200 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-12 11:35:16.057
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-12 11:36:38.671
+!MESSAGE Logback config file: C:\Users\hk910\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-12 11:36:51.639
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hk910'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-12 11:36:55.805
+!MESSAGE An internal error occurred during: "Initializing Java Tooling".
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid org.eclipse.pde.core_3.18.0.v20240215-1456 [562]
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:1054)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.createFilter(BundleContextImpl.java:1041)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:190)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:253)
+	at org.eclipse.pde.internal.core.PDERegistryStrategy.getXMLParser(PDERegistryStrategy.java:189)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.addContribution(ExtensionRegistry.java:1155)
+	at org.eclipse.pde.internal.core.PDERegistryStrategy.addBundle(PDERegistryStrategy.java:233)
+	at org.eclipse.pde.internal.core.PDERegistryStrategy.addBundles(PDERegistryStrategy.java:201)
+	at org.eclipse.pde.internal.core.PDERegistryStrategy.processBundles(PDERegistryStrategy.java:196)
+	at org.eclipse.pde.internal.core.PDERegistryStrategy.onStart(PDERegistryStrategy.java:176)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.<init>(ExtensionRegistry.java:789)
+	at org.eclipse.core.runtime.RegistryFactory.createRegistry(RegistryFactory.java:69)
+	at org.eclipse.pde.internal.core.PDEExtensionRegistry.createRegistry(PDEExtensionRegistry.java:104)
+	at org.eclipse.pde.internal.core.PDEExtensionRegistry.getRegistry(PDEExtensionRegistry.java:95)
+	at org.eclipse.pde.internal.core.PDEExtensionRegistry.getExtensionPoint(PDEExtensionRegistry.java:155)
+	at org.eclipse.pde.internal.core.PDEExtensionRegistry.findExtensions(PDEExtensionRegistry.java:228)
+	at org.eclipse.pde.internal.core.SourceLocationManager.processExtensions(SourceLocationManager.java:391)
+	at org.eclipse.pde.internal.core.SourceLocationManager.getExtensions(SourceLocationManager.java:232)
+	at org.eclipse.pde.internal.core.SourceLocationManager.getExtensionLocations(SourceLocationManager.java:227)
+	at org.eclipse.pde.internal.core.SourceLocationManager.searchExtensionLocations(SourceLocationManager.java:316)
+	at org.eclipse.pde.internal.core.SourceLocationManager.findSourcePath(SourceLocationManager.java:89)
+	at org.eclipse.pde.internal.core.ClasspathUtilCore.getSourceAnnotation(ClasspathUtilCore.java:239)
+	at org.eclipse.pde.internal.core.PDEClasspathContainer.addExternalPlugin(PDEClasspathContainer.java:83)
+	at org.eclipse.pde.internal.core.RequiredPluginsClasspathContainer.addPlugin(RequiredPluginsClasspathContainer.java:441)
+	at org.eclipse.pde.internal.core.RequiredPluginsClasspathContainer.addDependency(RequiredPluginsClasspathContainer.java:391)
+	at org.eclipse.pde.internal.core.RequiredPluginsClasspathContainer.addDependency(RequiredPluginsClasspathContainer.java:372)
+	at org.eclipse.pde.internal.core.RequiredPluginsClasspathContainer.computePluginEntriesByModel(RequiredPluginsClasspathContainer.java:232)
+	at org.eclipse.pde.internal.core.RequiredPluginsClasspathContainer.getClasspathEntries(RequiredPluginsClasspathContainer.java:132)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:3168)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:3326)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2437)
+	at org.eclipse.jdt.core.JavaCore.initializeAfterLoad(JavaCore.java:4754)
+	at org.eclipse.jdt.internal.ui.InitializeAfterLoadJob$RealJob.run(InitializeAfterLoadJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.oomph.ui 4 0 2024-05-12 11:36:56.620
+!MESSAGE java.lang.ExceptionInInitializerError
+!STACK 0
+java.lang.ExceptionInInitializerError
+	at org.eclipse.oomph.setup.ui.recorder.RecorderManager.<clinit>(RecorderManager.java:121)
+	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:218)
+	at org.eclipse.oomph.setup.ui.EarlyStartup.earlyStartup(EarlyStartup.java:23)
+	at org.eclipse.oomph.internal.ui.EarlyStart.run(EarlyStart.java:119)
+	at org.eclipse.oomph.internal.ui.EarlyStart$1.run(EarlyStart.java:98)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.osgi.framework.BundleContext.getServiceReference(java.lang.Class)" because "context" is null
+	at org.eclipse.oomph.p2.internal.core.AgentManagerImpl.getCurrentAgent(AgentManagerImpl.java:207)
+	at org.eclipse.oomph.p2.core.P2Util.getCurrentProvisioningAgent(P2Util.java:114)
+	at org.eclipse.oomph.setup.internal.core.util.SetupCoreUtil.<clinit>(SetupCoreUtil.java:158)
+	... 6 more
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-12 11:36:56.799
+!MESSAGE An internal error occurred during: "Repository registry initialization".
+!STACK 0
+java.lang.IllegalStateException: m2e is shut down!
+	at org.eclipse.m2e.core.embedder.IMavenConfiguration.getWorkspaceConfiguration(IMavenConfiguration.java:142)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.newExecutionRequest(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:305)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.getMirror(MavenImpl.java:910)
+	at org.eclipse.m2e.core.internal.repository.RepositoryRegistry.updateRegistry(RepositoryRegistry.java:263)
+	at org.eclipse.m2e.core.internal.repository.RepositoryRegistryUpdateJob.run(RepositoryRegistryUpdateJob.java:50)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-05-12 11:38:03.452 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-12 11:38:06.186
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-12 11:40:17.177
+!MESSAGE Logback config file: C:\Users\hk910\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-12 11:40:27.466
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hk910'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-12 11:56:44.591 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-12 11:56:48.822
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-12 11:56:53.757
+!MESSAGE Logback config file: C:\Users\hk910\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-12 11:57:09.011
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hk910'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 12:43:49.923
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405121243.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-12 12:43:49.931
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405121243.
+!SESSION 2024-05-13 23:38:48.451 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-13 23:39:15.910
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-13 23:42:36.291
+!MESSAGE Logback config file: C:\Users\hk910\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-13 23:42:52.327
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hk910'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-14 18:48:36.860 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=22.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-14 18:48:56.033
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-14 18:54:39.980
+!MESSAGE Logback config file: C:\Users\hk910\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-14 18:54:54.686
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hk910'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 19:55:25.629
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405141955.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 19:55:25.635
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405141955.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:02:51.266
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405142002.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:02:51.279
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405142002.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:07:59.372
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405142007.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:07:59.386
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405142007.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:11:46.273
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405142011.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:11:46.279
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405142011.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:17:46.955
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405142017.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:17:46.961
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405142017.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:22:13.372
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405142022.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:22:13.382
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405142022.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:34:03.976
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405142034.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:34:03.981
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405142034.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:39:27.437
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405142039.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 20:39:27.457
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405142039.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 21:06:11.393
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,Control_IDE_s_feature,1.0.0.202405142106.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-14 21:06:11.400
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,Control_IDE_s,1.0.0.202405142106.
