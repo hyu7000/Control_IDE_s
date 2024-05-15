@@ -24,13 +24,23 @@ public class CommandParser {
     	 * cmdArray[1] : CMD DATA (optional)
     	 */
     	String cmd_ID   = cmdArray[0];
+    	String cmd_Data = "";
+    	if (cmd.length() >= 2)
+    	{	
+    		cmd_Data = cmdArray[1]; 
+    	}
     	
         switch (cmd_ID) {
             case "build":
-            	String cmd_Data = cmdArray[1]; // it meaning 'Project Name'
-            	controlAction.buildProjectByName(cmd_Data, callback); 
+            	// "cmd_Data" means "Project Name".
+            	controlAction.performBuildAction(cmd_Data, callback); 
             	System.out.println("Start build : " + cmd_Data);
                 break;
+            case "refresh":
+            	// "cmd_Data" means "Project Name".
+            	controlAction.performRefreshAction(cmd_Data, callback);
+            	System.out.println("Start refresh : " + cmd_Data);
+            	break;
             default:
                 System.out.println("Unknown command: " + cmd);
                 break;
